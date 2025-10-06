@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace dwc.Models
+namespace BuildTrackMVC.Models
 {
     public class Movimento
     {

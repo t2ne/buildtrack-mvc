@@ -1,6 +1,6 @@
 using System;
 
-namespace dwc.Models
+namespace BuildTrackMVC.Models
 {
     public class RegistoPagamento
     {

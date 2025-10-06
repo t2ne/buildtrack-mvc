@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using dwc.Data;
-using dwc.Models;
+using BuildTrackMVC.Data;
+using BuildTrackMVC.Models;
 using System.Threading.Tasks;
 
-namespace dwc.Controllers
+namespace BuildTrackMVC.Controllers
 {
     public class ClientesController : Controller
     {

@@ -1,4 +1,4 @@
-namespace dwc.Models;
+namespace BuildTrackMVC.Models;
 
 public class ErrorViewModel
 {

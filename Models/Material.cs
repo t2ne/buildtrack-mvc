@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace dwc.Models
+namespace BuildTrackMVC.Models
 {
     public class Material
     {

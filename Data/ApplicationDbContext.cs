@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using dwc.Models;
+using BuildTrackMVC.Models;
 
-namespace dwc.Data
+namespace BuildTrackMVC.Data
 {
     public class ApplicationDbContext : DbContext
     {

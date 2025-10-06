@@ -4,6 +4,9 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+
+    <AssemblyName>BuildTrackMVC</AssemblyName>
+    <RootNamespace>BuildTrackMVC</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

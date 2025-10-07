@@ -6,10 +6,12 @@ https://www.youtube.com/watch?v=e2Ax71aksNI
 
 brew install dotnet
 
+dotnet tool install --global dotnet-ef
+
 dotnet new mvc
 
 dotnet add package Microsoft.EntityFrameworkCore
 
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-
 dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
